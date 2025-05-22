@@ -1,0 +1,40 @@
+h3{
+    font-family: Calibri;
+    font-size: 25px;
+    font-style: normal;
+    color: black;
+    margin-left: 250px;
+    text-decoration: none;
+    margin-bottom: 2px;
+}
+table{
+    font-family: Calibri;
+    color: black;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: bold;
+    background-color: white;
+    border-collapse: collapse;
+    border: 2px solid white;
+    top: 20px;
+}
+body{
+    background-color: white;
+}
+.table1{
+    width: 900px;
+    height: 500px;
+    padding: 10px;
+    margin-left: 250px;
+}
+button{
+    width: 90px;
+    height: 20px;
+    margin-bottom: 20px;
+    background-color: black;
+    border: 1px solid blue;
+    color: white;
+}
+.sect_input{
+    width: 57px;
+}
